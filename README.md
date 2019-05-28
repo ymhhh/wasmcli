@@ -1,0 +1,2 @@
+# wasmgo
+wasm go
